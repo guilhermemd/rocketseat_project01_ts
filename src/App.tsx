@@ -19,7 +19,7 @@ const posts = [
         "Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!",
       link: "https://github.com/rafaballerini",
     },
-    publishedAt: new Date("2023-03-31 20:00:00"),
+    publishedAt: new Date("29 September 2022 15:30 UTC"),
   },
   {
     id: 2,
@@ -35,7 +35,7 @@ const posts = [
       link: "https://github.com/diego3g",
     },
 
-    publishedAt: new Date("2022-04-01 24:00:00"),
+    publishedAt: new Date("30 September 2022 15:30 UTC"),
   },
 ];
 export function App() {
